@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ventas>
+  <venta id="1" fecha="2026-02-12" total="450">
+    <items>
+      <item libroId="1" cantidad="1" precioUnitario="450"/>
+    </items>
+  </venta>
+  <venta id="2" fecha="2026-02-13" total="3600">
+    <items>
+      <item libroId="1" cantidad="8" precioUnitario="450"/>
+    </items>
+  </venta>
+  <venta id="3" fecha="2026-02-13" total="100">
+    <items>
+      <item libroId="7" cantidad="10" precioUnitario="10"/>
+    </items>
+  </venta>
+</ventas>

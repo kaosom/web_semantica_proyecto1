@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+  <libro id="2" titulo="El Quijote" autor="Miguel de Cervantes" categoria="Literatura" precio="280" stock="25" isbn="9788491050308" editorial="" anioPublicacion="" descripcion="" idioma="" fechaRegistro="2026-02-12"/>
+  <libro titulo="Cien Años de Soledad" autor="Gabriel García Márquez" categoria="Literatura" precio="320" stock="8" isbn="9780307474728" fechaRegistro="2026-02-12" id="3"/>
+  <libro titulo="Design Patterns" autor="Gang of Four" categoria="Programación" precio="580" stock="4" isbn="9780201633610" fechaRegistro="2026-02-12" id="4"/>
+  <libro titulo="1984" autor="George Orwell" categoria="Ficción" precio="250" stock="12" isbn="9780451524935" fechaRegistro="2026-02-12" id="5"/>
+  <libro id="6" titulo="Buenas" autor="Angel" categoria="Terror" precio="10" stock="1" isbn="" fechaRegistro="2026-02-12"/>
+</libros>
