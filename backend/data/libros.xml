@@ -5,4 +5,5 @@
   <libro titulo="Design Patterns" autor="Gang of Four" categoria="Programación" precio="580" stock="4" isbn="9780201633610" fechaRegistro="2026-02-12" id="4"/>
   <libro titulo="1984" autor="George Orwell" categoria="Ficción" precio="250" stock="12" isbn="9780451524935" fechaRegistro="2026-02-12" id="5"/>
   <libro id="6" titulo="Buenas" autor="Angel" categoria="Terror" precio="10" stock="1" isbn="" fechaRegistro="2026-02-12"/>
+  <libro id="7" titulo="HOLA COMO ESTÁS" autor="HOLA" categoria="SDFASFAS" precio="24" stock="4232" isbn="4242" editorial="AFDASFAS" anioPublicacion="2423" descripcion="ASDFDSA" idioma="SADFA" fechaRegistro="2026-02-20"/>
 </libros>

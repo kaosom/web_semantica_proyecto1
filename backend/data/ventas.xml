@@ -15,4 +15,9 @@
       <item libroId="7" cantidad="10" precioUnitario="10"/>
     </items>
   </venta>
+  <venta id="4" fecha="2026-02-20" total="240">
+    <items>
+      <item libroId="7" cantidad="10" precioUnitario="24" tituloLibro="HOLA COMO ESTÁS" autor="HOLA"/>
+    </items>
+  </venta>
 </ventas>
